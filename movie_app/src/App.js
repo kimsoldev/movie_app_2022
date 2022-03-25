@@ -19,5 +19,4 @@ class App extends React.Component {
     return <div> {isLoading ? 'Loading...' : 'We are ready'}</div>;
   }
 }
-
 export default App;
