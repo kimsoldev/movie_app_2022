@@ -1,0 +1,24 @@
+.primary-nav {
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    display: flex;
+    align-content : space-around;
+    background-color: aliceblue;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.navDetail{
+    background-color: ;
+
+}
+
+nav a {
+    background-color: brown;
+}
+
+nav a:not(:last-child) {
+    margin: 10px;
+    margin-right: 10px;
+}
